@@ -31,9 +31,10 @@ Derudover har jeg også kendskab til at identificere, formulere og løse komplek
 - [Projektnavn](link): Kort beskrivelse af projektet.
 
 ## Teknologier
-- Sprog: C# 
+- Sprog: C#, SQL
 - Værktøjer: Visual Studio, GitHub, .Net
 - Frameworks: ASP.Net
+- Databasestyring: SQL Server Management Studio, MySQL Workbench
 
 ## Kontakt
 - Email: skovlarsen@hotmail.dk
