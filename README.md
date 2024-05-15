@@ -3,8 +3,8 @@
 # Softwareudvikling & Health Tech
 
 ### Uddannelse
-Datamatiker - under uddannelse 
-Fysioterapeut, cand.scient @SDU
+- Datamatiker - under uddannelse 
+- Fysioterapeut, cand.scient @SDU
 
 ### Erhverserfaring
 Fysioterapeut
