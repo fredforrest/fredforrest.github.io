@@ -28,7 +28,7 @@ Derudover har jeg også kendskab til at identificere, formulere og løse komplek
    - Opnåede erfaring med kommunikation, undervisning, struktur, planlæggelse og udføring jf. studiemål og at agere mentor i klinisk praksis.
 
 ### Projekter
-- [Projektnavn](link): Kort beskrivelse af projektet.
+- Arvefordeleren: En applikation, som har til formål at give brugeren en generel forståelse for sin arvefordeling i det tilfælde at dette blev aktuelt. Mulighed for at tilføje op til 2 arveladere, flere arvinger, værdigenstande og slutteligt generer programmet et cirkeldiagram, som man kan interagere med live. Derudover kan du downloade en CSV fil, der igen kan genindlæses for videre behandling/ændring af dine data. Intet i programmet gemmes efter din session er endt.
 
 ## Teknologier
 - Sprog: C#, SQL
